@@ -1,3 +1,4 @@
+# Just a comment
 name: Team X's approval workflow
 
 on: pull_request_review
